@@ -1,5 +1,4 @@
-# Daily-Budget-Ai
-AI-powered personal finance tracker for India: a live daily spending budget, hybrid rules + LLM transaction categorizer, and a chat assistant over your own data. FastAPI, PostgreSQL, React.
+
 # DailyBudget AI
 
 > An AI-powered personal finance tracker for India that tells you what you can actually spend **today**, and where the rest of your money went.
